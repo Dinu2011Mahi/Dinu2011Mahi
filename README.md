@@ -1,7 +1,15 @@
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Dinesh Negi</h1></summary>
+  </ul>
+</div>
 # 💫 About Me:
-Hi, I'm Dinesh Negi.<br><br>I work in Search Engine Optimization (SEO) and Web Development. <br>I have experience in On-Page SEO, Off-Page SEO, and Technical SEO, along with building websites using HTML, CSS, JavaScript, WordPress, and PHP.<br><br>Currently, I’m exploring ways to combine SEO with development to build faster, search-friendly websites and better digital experiences.<br><br>I also share projects related to web development, SEO experiments, and website optimization.
+<br>I work in Search Engine Optimization (SEO) and Web Development. <br>I have experience in On-Page SEO, Off-Page SEO, and Technical SEO, along with building websites using HTML, CSS, JavaScript, WordPress, and PHP.<br><br>Currently, I’m exploring ways to combine SEO with development to build faster, search-friendly websites and better digital experiences.<br><br>I also share projects related to web development, SEO experiments, and website optimization.
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@mahi007.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dnegi0007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinesh-negi-tech) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MahiDailyUpdate) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DMahi0007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:negidinu00777@gmail.com) 
 
